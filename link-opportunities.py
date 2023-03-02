@@ -12,9 +12,9 @@ odkazKw = dict
 polozka = dict
 radek = []
 
-URLs = "URL-2-2023.csv"
-KWs = "kw-2-2023.csv"
-FILE = "vystupy/2-2023-cz2.csv"
+URLs = "URLs.csv"
+KWs = "KWs.csv"
+FILE = "output.csv"
 
 
 def url_composer():
